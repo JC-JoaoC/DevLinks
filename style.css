@@ -91,11 +91,9 @@ body {
   left: initial;
 }
 
-/*
 #switch button:hover {
-  border: 16px solid var(--text-color);
+  outline: 8px solid var(--highlight-color);
 }
-*/
 
 #switch span {
   display: block;
